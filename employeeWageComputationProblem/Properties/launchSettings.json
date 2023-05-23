@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "employeeWageComputationProblem": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\EmployeeWagecomputationproblem",
+      "nativeDebugging": true,
+      "sqlDebugging": true,
+      "jsWebView2Debugging": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
